@@ -25,7 +25,7 @@ Please refer to [Ollama](https://ollama.com/download) to install Ollama on your 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/skyscopesentinel/OLLAMA-DualMind-PYTHON.git
+   git clone https://github.com/skyscope-sentinel/OLLAMA-DualMind-PYTHON.git
    cd OLLAMA-DualMind-PYTHON
    ```
 
